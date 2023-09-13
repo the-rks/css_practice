@@ -10,3 +10,25 @@ h1{
     text-align: center;
     padding: 15px;
 }
+
+h2{
+    font-size: 30px;
+    color: #0D0D0D;
+}
+
+p{
+    font-size: 24px;
+    padding-top: 10px;
+    padding-left: 10x;
+}
+
+img{
+    width: 250px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    border-style: dashed;
+    border-width: 10px;
+    border-color: white;
+}
+
