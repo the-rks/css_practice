@@ -13,13 +13,14 @@ h1{
 
 h2{
     font-size: 30px;
-    color: #0D0D0D;
+    color: #c4c4c4;
 }
 
 p{
     font-size: 24px;
     padding-top: 10px;
     padding-left: 10x;
+    color: #707070;
 }
 
 img{
@@ -44,5 +45,39 @@ div{
     margin-top: 15px;
     line-height: 2;
 }
+
+.red{
+    background-color: #ff0000;
+    text-align: right;
+    margin-left: 50px;
+    border-style: solid;
+    border-width: 0 0 2px 5px;
+}
+
+.blue{
+    background-color: #0000ff;
+    text-align: left;
+    margin-right: 50px;
+    border-style: solid;
+    border-width: 0 5px 2px 0;
+}
+
+.yellow{
+    background-color: #ffff00;
+    text-align: right;
+    margin-left: 50px;
+    border-style: solid;
+    border-width: 0 0 2px 5px;
+}
+
+.green{
+    background-color: #00EB00;
+    text-align: left;
+    margin-right: 50px;
+    border-style: solid;
+    border-width: 0 5px 2px 0;
+}
+
+
 
 
